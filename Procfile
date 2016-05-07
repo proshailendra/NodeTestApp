@@ -1,5 +1,2 @@
-$ ls
-app.js Procfile
-$ cat Procfile
-web: node app$
-$
+web: node app.js
+
